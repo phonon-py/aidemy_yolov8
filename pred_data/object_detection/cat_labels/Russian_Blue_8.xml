@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Russian_Blue_8.jpg</filename>
+	<path>/Users/sayaka/Documents/Aidemy/images/Russian_Blue_8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>194</width>
+		<height>316</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>8</ymin>
+			<xmax>178</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+</annotation>

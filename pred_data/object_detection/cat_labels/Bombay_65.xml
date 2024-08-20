@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Bombay_65.jpg</filename>
+	<path>/Users/sayaka/Documents/Aidemy/images/Bombay_65.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>387</width>
+		<height>281</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>7</ymin>
+			<xmax>345</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+</annotation>

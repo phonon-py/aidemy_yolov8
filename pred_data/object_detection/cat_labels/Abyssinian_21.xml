@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Abyssinian_21.jpg</filename>
+	<path>/Users/sayaka/Documents/Aidemy/images/Abyssinian_21.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>56</ymin>
+			<xmax>498</xmax>
+			<ymax>344</ymax>
+		</bndbox>
+	</object>
+</annotation>

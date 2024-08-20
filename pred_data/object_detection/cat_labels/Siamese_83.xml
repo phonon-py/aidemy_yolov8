@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Siamese_83.jpg</filename>
+	<path>/Users/sayaka/Documents/Aidemy/images/Siamese_83.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>94</ymin>
+			<xmax>439</xmax>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+</annotation>
